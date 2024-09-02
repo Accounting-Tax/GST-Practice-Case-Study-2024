@@ -1,9 +1,8 @@
-# GST-Practice-Case-Study
-CTA3 2024 - CS4 GST Practice Case Study
+[Back to Home page](https://anh.contact)
 
-Summary:
+# GST-Practice-Case-Study: CTA3 2024 - CS4 GST
 
-Background:
+## Background:
 - Power Australia Pty Limited (Power) is considering acquiring Solar Store Pty Limited (SStore) for $45 million. Initially the acquisition was planned to be through purchasing shares in SStore.
 - Power's Board is re-evaluating the acquisition structure potentially shifting to acquiring assets rather than shares.
 - SStore's assets are held in subsidiaries: Asset Pty Ltd (Asset) for physical assets and Secret Pty Ltd (Secret) for intellectual property.
